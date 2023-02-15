@@ -1,2 +1,1 @@
-this is git
-my first time of editing
+this is my first time of editing
